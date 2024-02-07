@@ -1,0 +1,11 @@
+@media screen and (max-width: 1280px) {
+  .article2 {
+    display: flex;
+  }
+}
+@media screen and (max-width: 769px) {
+  .article2 {
+    position: relative;
+    flex-direction: column;
+  }
+}
